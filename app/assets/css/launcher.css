@@ -3136,6 +3136,33 @@ input:checked + .toggleSwitchSlider:before {
     transition-delay:0s;
 }
 
+/* Home icon colors. */
+#homeSVG:hover,
+#homeURL:focus #homeSVG {
+    fill: #ff5c00;
+}
+#homeSVG:active {
+    fill: #e64b00;
+}
+
+/* Map icon colors. */
+#mapSVG:hover,
+#mapURL:focus #mapSVG {
+    fill: #00aaff;
+}
+#mapSVG:active {
+    fill: #008ecc;
+}
+
+/* Github icon colors. */
+#githubSVG:hover,
+#githubURL:focus #githubSVG {
+    fill: #6e5494;
+}
+#githubSVG:active {
+    fill: #5a437a;
+}
+
 /* X icon colors. */
 #xSVG:hover,
 #xURL:focus #xSVG {
@@ -3203,7 +3230,7 @@ input:checked + .toggleSwitchSlider:before {
 /* Maintains maximum width on the status bar. */
 #server_status_wrapper {
     display: inline-flex;
-    width: 75px;
+    width: 80px;
 }
 
 /* Span which displays the player count of the selected server. */
