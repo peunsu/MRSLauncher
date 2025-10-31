@@ -4,7 +4,9 @@
 title = "MRS Launcher"
 
 [ejs.landing]
-mediaLinkURL = "https://mysticred.space"
+mediaHomeURL = "https://mysticred.space"
+mediaLinkURL = "#"
+mediaMapURL = "https://map.mysticred.space"
 mediaGitHubURL = "https://github.com/peunsu/MRSLauncher"
 mediaXURL = "#"
 mediaInstagramURL = "#"
