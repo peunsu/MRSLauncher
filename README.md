@@ -203,16 +203,6 @@ Microsoft 인증 설정 방법은 [여기](https://github.com/dscalzi/HeliosLaun
 
 ## Mystic Red Space
 
-#### 지겨운 플러그인 서버는 이제 그만! 모드팩은 어떠세요?
-
-* 📅 국내 장수 모드팩 서버 & 커뮤니티 (2017년부터 운영, 9년차)
-* 🔧 MRS 런처를 이용한 간편한 모드팩 설치와 서버 접속
-* 📊 주기적인 유저 제안 및 투표로 모드팩을 선정하여 운영
-* 💰 후원금은 모두 서버 호스팅 비용으로 사용되며 후원 내역이 투명하게 공개
-* 📰 마인크래프트 모드 관련 뉴스가 실시간으로 업데이트되고, AI 번역 및 알림 설정 기능 제공
-
-아래 디스코드에서 MRS와 함께하세요.
-
 [![discord](https://discordapp.com/api/guilds/330997213255827457/embed.png?style=banner3)][discord]
 
 [nodejs]: https://nodejs.org/en/ 'Node.js'
