@@ -88,7 +88,7 @@ ctrl + shift + i
 
 **시스템 요구사항**
 
-* [Node.js][nodejs] v20
+* [Node.js][nodejs] v22
 
 ---
 
